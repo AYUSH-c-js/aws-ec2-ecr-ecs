@@ -1,0 +1,21 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Dependencies
+node_modules/
+vendor/
+
+# Build outputs
+/dist
+/build
+*.o
+*.exe
+
+# IDE/Editor files
+.vscode/
+.idea/
+
+# Secret files
+.env
+*.pem
